@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ghaffar0610
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning oops in java
+- 🌱 I’m currently learning oops in java, Computer Networks ,Software desing and architechture...
 - 💞️ I’m looking to collaborate on Software Developers
 - 📫 How to reach me ghaffarbwp786@gmail.com
 
